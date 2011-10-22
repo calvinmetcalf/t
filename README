@@ -1,0 +1,12 @@
+Putting MBTA subways into osm
+#todo
+-finish creating the relations, we'll need
+blue line:2 (east and west)
+orange line:2 (north and south)
+red line:6 (north and south for both ashmount and braintree, plus both ways for the mattapan line)
+green line:8 (east and west for all 4 lines, it should be remembered that they don't all start at the same point)
+-get the stations into the relations
+-get subways enterences in (currently trying to see if the MBTA has them, if they do I can probably get them)
+-make sure platforms and above ground buildings are tagged
+-figure out a tagging scheme we can all agree on.
+-buses?
